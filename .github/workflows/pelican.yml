@@ -15,5 +15,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: Juan-Devops/gh-pages-pelican-action@0.1.5
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      # env:
+      #  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
