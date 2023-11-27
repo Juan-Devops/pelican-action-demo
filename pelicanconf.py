@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Nelson Chen'
-SITENAME = 'Pelican Action Demo'
+AUTHOR = 'Juan'
+SITENAME = 'Exemplo Pelican'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'America/Phoenix'
+TIMEZONE = 'America/Brasilia'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'pt'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
